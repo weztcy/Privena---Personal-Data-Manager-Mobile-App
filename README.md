@@ -81,7 +81,7 @@ Firebase handles account access and user authentication, while Realm manages per
 
 ## 📜 License
 
-This project is maintained for **portfolio, reference, learning, and development purposes**.
+This project is maintained for portfolio, reference, and development purposes.
 
 ---
 
