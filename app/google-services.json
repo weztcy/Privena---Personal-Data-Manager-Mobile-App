@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "913892499210",
+    "firebase_url": "https://personal-data-manager-74271-default-rtdb.firebaseio.com",
+    "project_id": "personal-data-manager-74271",
+    "storage_bucket": "personal-data-manager-74271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913892499210:android:a360aebbb7c0ddc82664f3",
+        "android_client_info": {
+          "package_name": "com.yodimpra.personaldata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913892499210-djnbao1q2dichbbkq93kv84re1275lgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrCOqBz1hk8vHOBXAnMkee4jSh3qYTCYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913892499210-djnbao1q2dichbbkq93kv84re1275lgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

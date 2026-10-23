@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Privena</string>
+    <string name="app_tagline">Personal Data Vault</string>
+    <string name="app_security_badge">256-bit Encrypted Vault</string>
+</resources>

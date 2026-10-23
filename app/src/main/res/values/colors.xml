@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Legacy references preserved -->
+    <color name="purple_200">#FF818CF8</color>
+    <color name="purple_500">#FF6366F1</color>
+    <color name="purple_700">#FF4F46E5</color>
+    <color name="teal_200">#FF38BDF8</color>
+    <color name="teal_700">#FF0284C7</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Privena Premium Dark Luxury Palette -->
+    <!-- Backgrounds -->
+    <color name="bg_root_dark">#FF0B0F19</color>
+    <color name="bg_surface_dark">#FF111827</color>
+    <color name="bg_card_dark">#FF162032</color>
+    <color name="bg_card_glass">#F2162032</color>
+    <color name="bg_input_dark">#FF1A263D</color>
+    <color name="bg_input_focused">#FF202F4A</color>
+    <color name="bg_badge_dark">#FF1E293B</color>
+
+    <!-- Strokes & Borders -->
+    <color name="border_subtle">#FF26354D</color>
+    <color name="border_glass">#33FFFFFF</color>
+    <color name="border_glow">#FF6366F1</color>
+
+    <!-- Brand Accents -->
+    <color name="accent_primary">#FF6366F1</color>
+    <color name="accent_primary_dark">#FF4F46E5</color>
+    <color name="accent_primary_light">#FF818CF8</color>
+    <color name="accent_cyan">#FF38BDF8</color>
+    <color name="accent_cyan_glow">#4D38BDF8</color>
+    <color name="accent_indigo_glow">#4D6366F1</color>
+    
+    <!-- Functional Colors -->
+    <color name="color_danger">#FFEF4444</color>
+    <color name="color_danger_dark">#FFDC2626</color>
+    <color name="color_danger_soft">#33EF4444</color>
+    <color name="color_success">#FF10B981</color>
+    <color name="color_warning">#FFF59E0B</color>
+
+    <!-- Typography -->
+    <color name="text_primary">#FFF8FAFC</color>
+    <color name="text_secondary">#FF94A3B8</color>
+    <color name="text_muted">#FF64748B</color>
+    <color name="text_hint">#FF64748B</color>
+    <color name="text_accent">#FF818CF8</color>
+    <color name="text_cyan">#FF38BDF8</color>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Focused state -->
+    <item android:state_focused="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/bg_input_focused" />
+            <corners android:radius="14dp" />
+            <stroke
+                android:width="1.8dp"
+                android:color="@color/accent_primary" />
+        </shape>
+    </item>
+    <!-- Default state -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/bg_input_dark" />
+            <corners android:radius="14dp" />
+            <stroke
+                android:width="1.2dp"
+                android:color="@color/border_subtle" />
+        </shape>
+    </item>
+</selector>
